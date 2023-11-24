@@ -1,3 +1,9 @@
+/*file			:	frequency
+ * Author		:	Richard m mathew
+ * version		:	1.0
+ * description	        :	frequency of a given character in a string
+ * date			:	03/10/23
+ */
 package javaproject;
 
 import java.util.Scanner;
