@@ -1,3 +1,9 @@
+/*file			:	
+ * Author		:	Richard m mathew
+ * version		:	1.0
+ * description	        :	exception handling
+ * date			:	10/11/23
+ */
 package javaproject;
 import java.util.Scanner;
 public class ExceptionDemo {
