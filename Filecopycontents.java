@@ -1,3 +1,9 @@
+/*file			:	
+ * Author		:	Richard m mathew
+ * version		:	1.0
+ * description	        :	file copy
+ * date			:	24/11/23
+ */
 package javaproject;
 import java.io.FileReader;
 import java.io.FileWriter;
