@@ -3,7 +3,7 @@
  * description  : inheritance
  * author       : richard
  * version      :4
- * date         :27/10/23
+ * date         :17/10/23
  */
 package javaproject;
 
