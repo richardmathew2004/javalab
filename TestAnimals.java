@@ -2,7 +2,7 @@
  * Author		:	Richard m mathew
  * version		:	1.0
  * description	        :	interface inheritance
- * date			:	17/11/23
+ * date			:	10/11/23
  */
 package javaproject;abstract class Animal{
 	protected int legs;
