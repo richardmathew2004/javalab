@@ -1,7 +1,7 @@
 /*file			:	StringTokenizer.java
  * Author		:	Richard m mathew
  * version		:	1.0
- * description	:	StringTokenizer
+ * description	        :	StringTokenizer
  * date			:	24/11/23
  */
 package javaproject;
