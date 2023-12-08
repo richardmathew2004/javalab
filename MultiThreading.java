@@ -1,3 +1,9 @@
+/*file			:	Sychronization.java
+ * Author		:	Richard m mathew
+ * version		:	1.0
+ * description	        :Thread Sychronization during Multiplication Table creation
+ * date			:	2/12/23
+ */
 package javaproject;
 import java.util.Scanner;
 
