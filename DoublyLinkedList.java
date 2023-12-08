@@ -1,3 +1,9 @@
+/*file			:	DoublyLinkedList.java
+ * Author		:	Richard m mathew
+ * version		:	1.0
+ * description	        :	DoublyLinkedList
+ * date			:	8/12/23
+ */
 package javaproject;
 import java.util.LinkedList;
 import java.util.Scanner;
