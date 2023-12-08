@@ -1,4 +1,9 @@
-
+/*file			:	Multithreading.java
+ * Author		:	Richard m mathew
+ * version		:	1.0
+ * description	        :	Multithreading Implementation in Java
+ * date			:	2/12/23
+ */
 package javaproject;
 import java.util.Random;
 class NumberManager{
