@@ -1,3 +1,9 @@
+/*file			:	GUI traffic light
+ * Author		:	Richard m mathew
+ * version		:	1.0
+ * description	        :       GUI traffic light
+ * date			:	13/12/23
+ */
 package bbbbb;
 import javax.swing.*;
 import java.awt.*;
