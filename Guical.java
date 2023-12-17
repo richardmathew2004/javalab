@@ -1,3 +1,9 @@
+/*file			:	GUI calculator
+ * Author		:	Richard m mathew
+ * version		:	1.0
+ * description	        :       GUI calculator
+ * date			:	13/12/23
+ */
 package lab;
 import java.awt.event.*;
 import java.awt.*;
